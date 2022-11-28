@@ -1,3 +1,5 @@
+## EXPNO: 02
+## DATE: 08.09.2022
 # Developing a Neural Network Classification Model
 
 ## AIM
